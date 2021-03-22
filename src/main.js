@@ -18,7 +18,7 @@ import '@/permission' // permission control
 Vue.use(ElementUI, { locale })
 
 Vue.config.productionTip = false
-// lcmdsmfgngn
+// lcmdsmfgngnhhhh
 new Vue({
   el: '#app',
   router,
